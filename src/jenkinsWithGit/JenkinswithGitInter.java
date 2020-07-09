@@ -9,5 +9,9 @@ public class JenkinswithGitInter {
 	public void callMehtod() {
 		System.out.println("call method added for jakins");
 	}
+	
+	public void call() {
+		System.out.println("call method added for jakins");
+	}
 
 }
